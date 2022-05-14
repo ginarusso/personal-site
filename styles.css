@@ -35,6 +35,12 @@ main {
     width: 600px;
 }
 
+header {
+    background-image: url("code.jpeg");
+    /* height: 320px; */
+    padding: 20px 10px;
+}
+
 img {
     width: 30%;
     border-radius: calc(var(--image) * 2);
