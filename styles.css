@@ -38,6 +38,7 @@ main {
 header {
     background-image: url("code.jpeg");
     /* height: 320px; */
+    width: 600px;
     padding: 20px 10px;
 }
 
